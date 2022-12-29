@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\bin\Debug\net6.0\Assignment 2 (Hoàng Việt).exe
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\bin\Debug\net6.0\Assignment 2 (Hoàng Việt).deps.json
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\bin\Debug\net6.0\Assignment 2 (Hoàng Việt).runtimeconfig.json
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\bin\Debug\net6.0\Assignment 2 (Hoàng Việt).dll
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\bin\Debug\net6.0\Assignment 2 (Hoàng Việt).pdb
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\Assignment 2 (Hoàng Việt).csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\Assignment 2 (Hoàng Việt).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\Assignment 2 (Hoàng Việt).AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\Assignment 2 (Hoàng Việt).AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\Assignment 2 (Hoàng Việt).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\Assignment 2 (Hoàng Việt).dll
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\refint\Assignment 2 (Hoàng Việt).dll
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\Assignment 2 (Hoàng Việt).pdb
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\Assignment 2 (Hoàng Việt).genruntimeconfig.cache
+C:\Users\Admin\Desktop\Assignment 2 (Hoàng Việt)\Assignment 2 (Hoàng Việt)\obj\Debug\net6.0\ref\Assignment 2 (Hoàng Việt).dll
